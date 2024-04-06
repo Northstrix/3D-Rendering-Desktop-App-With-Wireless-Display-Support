@@ -7,6 +7,8 @@ Update by Northstrix:
 
 <img src="Screenshots/3d renderer with wireless display support.gif">
 
+Used .obj file: https://free3d.com/3d-model/low_poly_tree-816203.html
+
 <img src="Screenshots/v3.gif">
 
 > [V1 Demo YouTube video](https://youtu.be/G0m2wwEppWA) | [V2 Code walkthrough YouTube video](https://youtu.be/Ca8nKtICYMk)
